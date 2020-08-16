@@ -1,4 +1,29 @@
-### Hi there 👋
+### नमस्ते (Namaste)🙏🏻 
+I'm Priyank Shah (he/him) and I ❤ DevCommunity, and Creative Coding! 😊
+
+Looking for <b>Internship</b> on React from December '21 onwards. If got some opportunity let's talk. 💪
+
+### ✔️ I'm currently learning
+- JavaScript
+- MERN stack
+
+### 👩‍💻 I'm working on
+- A placement portal based on MERN Stack
+- Building side projects and my portfolio website. 
+
+
+### 🌴 Fun facts
+- I love playing chess, let's play on <a href = "https://www.chess.com/member/priyanks99">chess.com</a> ♟️
+- A Tea person 🍵
+
+
+### 📞 Get in touch
+If you have any questions or would like to have a chat about coding, community building, new project ideas just drop me a line or two. I'm keen on meeting new like-minded people.
+
+- Instagram: <a href = "https://www.instagram.com/priyanks99/">@priyanks99</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/priyanks99/">linkedin.com/in/priyanks99</a>
+- Twitter: <a href = "https://twitter.com/priyanks99">@priyanks99</a>
+- Website: coming soon
 
 <!--
 **priyank04/priyank04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
