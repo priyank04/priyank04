@@ -8,7 +8,6 @@ Looking for <b>Internship</b> on React from December '21 onwards. If got some op
 - MERN stack
 
 ### 👩‍💻 I'm working on
-- A placement portal based on MERN Stack
 - Building side projects and my portfolio website. 
 
 
