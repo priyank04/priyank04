@@ -1,11 +1,12 @@
 ### नमस्ते (Namaste)🙏🏻 
 I'm Priyank Shah (he/him) and I ❤ DevCommunity, and Creative Coding! 😊
 
-Looking for <b>Internship</b> on React from December '21 onwards. If got some opportunity let's talk. 💪
+Working as a Full-stack Developer Intern at Beta Code Technologies. 💪
 
 ### ✔️ I'm currently learning
 - JavaScript
 - MERN stack
+- Django & Vue :heart:
 
 ### 👩‍💻 I'm working on
 - Building side projects and my portfolio website. 
