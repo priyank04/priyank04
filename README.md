@@ -1,12 +1,9 @@
 ### नमस्ते (Namaste)🙏🏻 
-I'm Priyank Shah (he/him) and I ❤ DevCommunity, and Creative Coding! 😊
+I'm Priyank Shah (he/him) 
 
-Working as a Full-stack Developer Intern at Beta Code Technologies. 💪
+#### Pursuing Graduate Degree at <a href = "https://www.umd.edu/">University of Maryland, College Park</a> in Information Systems 🎓
 
-### ✔️ I'm currently learning
-- JavaScript
-- MERN stack
-- Django & Vue :heart:
+I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night and Creative Coding! 😊
 
 ### 👩‍💻 I'm working on
 - Building side projects and my portfolio website. 
@@ -14,7 +11,7 @@ Working as a Full-stack Developer Intern at Beta Code Technologies. 💪
 
 ### 🌴 Fun facts
 - I love playing chess, let's play on <a href = "https://www.chess.com/member/priyanks99">chess.com</a> ♟️
-- A Tea person 🍵
+- A coffee person 🍵
 
 
 ### 📞 Get in touch
