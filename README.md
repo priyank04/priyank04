@@ -3,7 +3,7 @@ I'm Priyank Shah (he/him)
 
 #### Pursuing Graduate Degree at <a href = "https://www.umd.edu/">University of Maryland, College Park</a> in Information Systems 🎓
 
-I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night and Creative Coding! 😊
+I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night! 😊
 
 ### 👩‍💻 I'm working on
 - Building side projects and my portfolio website. 
