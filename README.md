@@ -5,8 +5,8 @@ I'm Priyank Shah (he/him)
 
 I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night! 😊
 
-### 👩‍💻 I'm working on
-- Building side projects and my portfolio website. 
+### 👩‍💻 I'm working at
+- <a href="https://www.mercatus.org/" target="_blank"> Mercatus Center at George Mason University </a> as a Data Science Intern for Summer 2022
 
 
 ### 🌴 Fun facts
@@ -17,7 +17,7 @@ I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night! 😊
 ### 📞 Get in touch
 If you have any questions or would like to have a chat about coding, community building, new project ideas just drop me a line or two. I'm keen on meeting new like-minded people.
 
-- Instagram: <a href = "https://www.instagram.com/priyanks99/">@priyanks99</a>
+- Instagram: <a href = "https://www.instagram.com/shhh_priyank">@shhh_priyank</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/priyanks99/">linkedin.com/in/priyanks99</a>
 - Twitter: <a href = "https://twitter.com/priyanks99">@priyanks99</a>
 - Website: coming soon
