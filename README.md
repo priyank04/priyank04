@@ -21,6 +21,7 @@ If you have any questions or would like to have a chat about coding, community b
 - LinkedIn: <a href = "https://www.linkedin.com/in/priyanks99/">linkedin.com/in/priyanks99</a>
 - Twitter: <a href = "https://twitter.com/priyanks99">@priyanks99</a>
 - Website: <a href = "https://www.priyankshah.me/"> Priyank Shah - Portfolio</a>
+- Tableau: <a href = "https://public.tableau.com/app/profile/priyank.shah2989"> /priyank.shah2989 </a>
 
 <!--
 **priyank04/priyank04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
