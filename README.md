@@ -6,7 +6,7 @@ I'm Priyank Shah (he/him)
 I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night! 😊
 
 ### 👨‍💻 I'm working at
-- <a href="https://www.mercatus.org/" target="_blank"> Mercatus Center at George Mason University </a> as a Data Engineer Intern for Fall 2022
+- Looking for full time opportunity in field of Data Science and Analytics in US (Open to Relocation)
 
 
 ### 🌴 Fun facts
