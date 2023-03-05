@@ -1,12 +1,12 @@
 ### नमस्ते (Namaste)🙏🏻 
 I'm Priyank Shah (he/him) 
 
-#### Pursuing Graduate Degree at <a href = "https://www.umd.edu/" target="_blank">University of Maryland, College Park</a> in Information Systems 🎓
+#### Graduated from <a href = "https://www.umd.edu/" target="_blank">University of Maryland, College Park</a> in December 2022, with MS in Information Systems 🎓
 
 I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night! 😊
 
 ### 👨‍💻 I'm working at
-- Looking for full time opportunity in field of Data Science and Analytics in US (Open to Relocation)
+- Looking for full time opportunity in field of Data Science and Analytics in North America (Open to Relocation)
 
 
 ### 🌴 Fun facts
