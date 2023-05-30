@@ -19,7 +19,7 @@ If you have any questions or would like to have a chat about coding, community b
 
 - Instagram: <a href = "https://www.instagram.com/shhh_priyank" target="_blank">@shhh_priyank</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/priyanks99/" target="_blank">linkedin.com/in/priyanks99</a>
-- Twitter: <a href = "https://twitter.com/priyanks99" target="_blank">@priyanks99</a>
+- Twitter: <a href = "https://twitter.com/priyank_shahh" target="_blank">@priyank_shahh</a>
 - Website: <a href = "https://www.priyankshah.me/" target="_blank"> Priyank Shah - Portfolio</a>
 - Tableau: <a href = "https://public.tableau.com/app/profile/priyank.shah2989" target="_blank"> /priyank.shah2989 </a>
 
