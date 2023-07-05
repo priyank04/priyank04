@@ -6,7 +6,7 @@ I'm Priyank Shah (he/him)
 I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night! 😊
 
 ### 👨‍💻 I'm working at
-- Looking for full time opportunity in field of Data Science and Analytics in North America (Open to Relocation)
+- <a href = "https://www.radiangroup.com/" target="_blank"> Radian Group Inc. as Data Engineer
 
 
 ### 🌴 Fun facts
