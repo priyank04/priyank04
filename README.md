@@ -6,7 +6,7 @@ I'm Priyank Shah (he/him)
 I ❤ DevCommunity, Biz Person by Day & Techsavvy by Night! 😊
 
 ### 👨‍💻 I'm working at
-- <a href = "https://www.radiangroup.com/" target="_blank"> Radian Group Inc. </a> as Data Engineer
+- <a href = "https://www.radiangroup.com/" target="_blank"> Radian Group Inc. </a> as a Data Engineer 🖥️🔧📈
 
 
 ### 🌴 Fun facts
